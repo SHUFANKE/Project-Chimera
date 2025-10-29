@@ -1,1 +1,1 @@
-# Project-Chimera
+# Project-Chimera:An Automoted Trading System prototype
